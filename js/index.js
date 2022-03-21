@@ -30,8 +30,7 @@ function renderPosts(query) {
                   <p><small>${blog.likes} likes</small></p>
                   <p>${blog.body.slice(0, 200)}</p>
                   <a href="./details.html?id=${blog.id}">read more...</a>
-              </div>
-          `;
+              </div>`;
       });
       blogContainer.innerHTML = template;
     })

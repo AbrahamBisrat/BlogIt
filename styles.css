@@ -33,23 +33,26 @@ nav a:hover {
   font-weight: bold;
 }
 .post {
-  background-color: whitesmoke;
+  /* background-color: whitesmoke; */
+  background-color: white;
   margin: 2%;
   border-radius: 5px;
   padding: 5%;
 }
-.post a {
-  font-size: large;
-  font-weight: bold;
-  color: rgb(139, 201, 47);
-}
 .post h2 {
   font-weight: bolder;
+  margin: -1.5%;
 }
 .post p {
   margin: 2% 1%;
   font-weight: bolder;
   font-display: inherit;
+  /* border-left: 2px solid red; */
+}
+.post a {
+  font-size: large;
+  font-weight: bold;
+  color: rgb(139, 201, 47);
 }
 /* details page */
 .details {
