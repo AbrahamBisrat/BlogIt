@@ -38,12 +38,17 @@ nav a:hover {
   border-radius: 5px;
   padding: 5%;
 }
+.post a {
+  font-size: large;
+  font-weight: bold;
+  color: rgb(139, 201, 47);
+}
 .post h2 {
   font-weight: bolder;
 }
 .post p {
   margin: 2% 1%;
-  font-weight: bold;
+  font-weight: bolder;
   font-display: inherit;
 }
 /* details page */
@@ -75,12 +80,14 @@ nav a:hover {
   text-decoration: underline;
 }
 /* create page */
-.create {
-}
 .create form {
   display: flex;
   flex-wrap: wrap;
   padding: 1%;
+}
+.create > * {
+  font-size: large;
+  font-weight: bold;
 }
 .create form input[type="text"] {
   flex-basis: 70%;
