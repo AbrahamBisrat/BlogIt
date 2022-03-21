@@ -1,57 +1,90 @@
 {
-    "posts":[
-        { 
-            "id": 1,
-            "title": "Making a Blog website @ 12:42 AM",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos provident nesciunt, architecto at asperiores, tempore impedit necessitatibus neque natus, doloremque totam non et perspiciatis cupiditate? Quae repellat consectetur doloribus autem recusandae suscipit commodi! Alias, at aperiam dolores, sit, facilis nihil necessitatibus sequi in nisi animi reprehenderit tenetur rerum tempora quam architecto repellendus? Distinctio, a ad harum iste exercitationem ipsam nulla consequuntur et corrupti molestias doloremque nam voluptatibus nostrum dolores magni. Excepturi sed id error deserunt! Non a illum id libero ut quisquam recusandae nobis at tempore. Hic minus, mollitia, eligendi ex debitis aliquam sit, earum sed corrupti fugiat similique repellat quia quam. At a laudantium iure distinctio nisi quam voluptatibus voluptas architecto assumenda, fugit quos similique itaque debitis amet aut quod unde natus aliquid odit asperiores nam repellat laboriosam earum. Veniam perferendis cupiditate omnis praesentium voluptate tempora quod dolores consequuntur expedita excepturi cum, tenetur, natus dignissimos quisquam quidem. Omnis voluptas unde soluta nisi libero perferendis iure odit sequi similique nam voluptatem, quis, delectus voluptatibus velit natus laborum cumque voluptates, corporis ea eveniet possimus sapiente dolorem reprehenderit? Sit asperiores perspiciatis eaque omnis accusantium ut quisquam esse officia quidem, culpa ratione. Necessitatibus velit eum maxime! Commodi saepe optio ipsum ullam, molestiae culpa voluptate maxime dolorem, id nostrum hic consequuntur facere perferendis fuga quaerat quae? Harum explicabo hic et quas quisquam voluptatibus tempora consequatur incidunt. Obcaecati nisi hic quasi quod fugiat eveniet assumenda eius repellat fuga, ea aperiam ducimus cum minima quo omnis! Quod maiores illum aut doloribus perferendis eaque. Repellat, id eius assumenda distinctio quis temporibus nulla officiis exercitationem, alias qui doloremque quos odit earum, autem veritatis ad aut magni eaque? Perspiciatis repellendus error aliquid iusto dicta ipsum omnis esse laudantium, excepturi voluptatibus fuga neque, commodi repellat! Consectetur eius est blanditiis inventore animi? Soluta cumque minus autem pariatur impedit provident cupiditate est iste, perspiciatis exercitationem sunt cum nisi veritatis vitae maxime inventore possimus? Odio amet tenetur debitis? Totam explicabo placeat dolor, quia quis, eaque possimus nisi vero tempora quidem deserunt eos, in pariatur neque eius? Aut soluta nobis vel totam inventore ullam, maxime nulla nihil itaque hic beatae cupiditate quidem culpa optio reiciendis repellat laboriosam! Accusamus non dolorum culpa doloribus cumque hic quam. Hic aspernatur facilis corporis! Reiciendis vitae non eveniet delectus omnis nesciunt fugit sunt exercitationem in tempora, dicta alias facilis unde. Quidem eum possimus saepe hic aspernatur? Quam, pariatur temporibus, nobis non harum maxime illo est labore eligendi provident hic quas ducimus, culpa accusamus molestiae minus exercitationem totam. Quod velit ipsam numquam voluptatem repellat, libero veniam explicabo unde amet eum labore, omnis, enim ratione illum nihil beatae voluptatum est ipsum minus magnam incidunt? Suscipit accusantium error aperiam reiciendis itaque distinctio, nostrum non provident ullam iusto, beatae alias consequuntur laborum laboriosam quae unde blanditiis velit. Error veniam iure voluptate? Nisi alias corrupti, consectetur magni dignissimos eum eaque vero assumenda possimus dolores amet tempora ipsum atque quae totam! Natus enim corporis ea sequi omnis labore quo adipisci maxime sapiente rerum dolore maiores earum voluptatem impedit nam, quas quam! Magni velit cupiditate voluptates.",
-            "likes": 23
-        },
-        { 
-            "id": 2,
-            "title": "Using JSON Server would have helped me",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos provident nesciunt, architecto at asperiores, tempore impedit necessitatibus neque natus, doloremque totam non et perspiciatis cupiditate? Quae repellat consectetur doloribus autem recusandae suscipit commodi! Alias, at aperiam dolores, sit, facilis nihil necessitatibus sequi in nisi animi reprehenderit tenetur rerum tempora quam architecto repellendus? Distinctio, a ad harum iste exercitationem ipsam nulla consequuntur et corrupti molestias doloremque nam voluptatibus nostrum dolores magni. Excepturi sed id error deserunt! Non a illum id libero ut quisquam recusandae nobis at tempore. Hic minus, mollitia, eligendi ex debitis aliquam sit, earum sed corrupti fugiat similique repellat quia quam. At a laudantium iure distinctio nisi quam voluptatibus voluptas architecto assumenda, fugit quos similique itaque debitis amet aut quod unde natus aliquid odit asperiores nam repellat laboriosam earum. Veniam perferendis cupiditate omnis praesentium voluptate tempora quod dolores consequuntur expedita excepturi cum, tenetur, natus dignissimos quisquam quidem. Omnis voluptas unde soluta nisi libero perferendis iure odit sequi similique nam voluptatem, quis, delectus voluptatibus velit natus laborum cumque voluptates, corporis ea eveniet possimus sapiente dolorem reprehenderit? Sit asperiores perspiciatis eaque omnis accusantium ut quisquam esse officia quidem, culpa ratione. Necessitatibus velit eum maxime! Commodi saepe optio ipsum ullam, molestiae culpa voluptate maxime dolorem, id nostrum hic consequuntur facere perferendis fuga quaerat quae? Harum explicabo hic et quas quisquam voluptatibus tempora consequatur incidunt. Obcaecati nisi hic quasi quod fugiat eveniet assumenda eius repellat fuga, ea aperiam ducimus cum minima quo omnis! Quod maiores illum aut doloribus perferendis eaque. Repellat, id eius assumenda distinctio quis temporibus nulla officiis exercitationem, alias qui doloremque quos odit earum, autem veritatis ad aut magni eaque? Perspiciatis repellendus error aliquid iusto dicta ipsum omnis esse laudantium, excepturi voluptatibus fuga neque, commodi repellat! Consectetur eius est blanditiis inventore animi? Soluta cumque minus autem pariatur impedit provident cupiditate est iste, perspiciatis exercitationem sunt cum nisi veritatis vitae maxime inventore possimus? Odio amet tenetur debitis? Totam explicabo placeat dolor, quia quis, eaque possimus nisi vero tempora quidem deserunt eos, in pariatur neque eius? Aut soluta nobis vel totam inventore ullam, maxime nulla nihil itaque hic beatae cupiditate quidem culpa optio reiciendis repellat laboriosam! Accusamus non dolorum culpa doloribus cumque hic quam. Hic aspernatur facilis corporis! Reiciendis vitae non eveniet delectus omnis nesciunt fugit sunt exercitationem in tempora, dicta alias facilis unde. Quidem eum possimus saepe hic aspernatur? Quam, pariatur temporibus, nobis non harum maxime illo est labore eligendi provident hic quas ducimus, culpa accusamus molestiae minus exercitationem totam. Quod velit ipsam numquam voluptatem repellat, libero veniam explicabo unde amet eum labore, omnis, enim ratione illum nihil beatae voluptatum est ipsum minus magnam incidunt? Suscipit accusantium error aperiam reiciendis itaque distinctio, nostrum non provident ullam iusto, beatae alias consequuntur laborum laboriosam quae unde blanditiis velit. Error veniam iure voluptate? Nisi alias corrupti, consectetur magni dignissimos eum eaque vero assumenda possimus dolores amet tempora ipsum atque quae totam! Natus enim corporis ea sequi omnis labore quo adipisci maxime sapiente rerum dolore maiores earum voluptatem impedit nam, quas quam! Magni velit cupiditate voluptates.",
-            "likes": 12
-        },
-        { 
-            "id": 3,
-            "title": "Do not be limitted by api call limts",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos provident nesciunt, architecto at asperiores, tempore impedit necessitatibus neque natus, doloremque totam non et perspiciatis cupiditate? Quae repellat consectetur doloribus autem recusandae suscipit commodi! Alias, at aperiam dolores, sit, facilis nihil necessitatibus sequi in nisi animi reprehenderit tenetur rerum tempora quam architecto repellendus? Distinctio, a ad harum iste exercitationem ipsam nulla consequuntur et corrupti molestias doloremque nam voluptatibus nostrum dolores magni. Excepturi sed id error deserunt! Non a illum id libero ut quisquam recusandae nobis at tempore. Hic minus, mollitia, eligendi ex debitis aliquam sit, earum sed corrupti fugiat similique repellat quia quam. At a laudantium iure distinctio nisi quam voluptatibus voluptas architecto assumenda, fugit quos similique itaque debitis amet aut quod unde natus aliquid odit asperiores nam repellat laboriosam earum. Veniam perferendis cupiditate omnis praesentium voluptate tempora quod dolores consequuntur expedita excepturi cum, tenetur, natus dignissimos quisquam quidem. Omnis voluptas unde soluta nisi libero perferendis iure odit sequi similique nam voluptatem, quis, delectus voluptatibus velit natus laborum cumque voluptates, corporis ea eveniet possimus sapiente dolorem reprehenderit? Sit asperiores perspiciatis eaque omnis accusantium ut quisquam esse officia quidem, culpa ratione. Necessitatibus velit eum maxime! Commodi saepe optio ipsum ullam, molestiae culpa voluptate maxime dolorem, id nostrum hic consequuntur facere perferendis fuga quaerat quae? Harum explicabo hic et quas quisquam voluptatibus tempora consequatur incidunt. Obcaecati nisi hic quasi quod fugiat eveniet assumenda eius repellat fuga, ea aperiam ducimus cum minima quo omnis! Quod maiores illum aut doloribus perferendis eaque. Repellat, id eius assumenda distinctio quis temporibus nulla officiis exercitationem, alias qui doloremque quos odit earum, autem veritatis ad aut magni eaque? Perspiciatis repellendus error aliquid iusto dicta ipsum omnis esse laudantium, excepturi voluptatibus fuga neque, commodi repellat! Consectetur eius est blanditiis inventore animi? Soluta cumque minus autem pariatur impedit provident cupiditate est iste, perspiciatis exercitationem sunt cum nisi veritatis vitae maxime inventore possimus? Odio amet tenetur debitis? Totam explicabo placeat dolor, quia quis, eaque possimus nisi vero tempora quidem deserunt eos, in pariatur neque eius? Aut soluta nobis vel totam inventore ullam, maxime nulla nihil itaque hic beatae cupiditate quidem culpa optio reiciendis repellat laboriosam! Accusamus non dolorum culpa doloribus cumque hic quam. Hic aspernatur facilis corporis! Reiciendis vitae non eveniet delectus omnis nesciunt fugit sunt exercitationem in tempora, dicta alias facilis unde. Quidem eum possimus saepe hic aspernatur? Quam, pariatur temporibus, nobis non harum maxime illo est labore eligendi provident hic quas ducimus, culpa accusamus molestiae minus exercitationem totam. Quod velit ipsam numquam voluptatem repellat, libero veniam explicabo unde amet eum labore, omnis, enim ratione illum nihil beatae voluptatum est ipsum minus magnam incidunt? Suscipit accusantium error aperiam reiciendis itaque distinctio, nostrum non provident ullam iusto, beatae alias consequuntur laborum laboriosam quae unde blanditiis velit. Error veniam iure voluptate? Nisi alias corrupti, consectetur magni dignissimos eum eaque vero assumenda possimus dolores amet tempora ipsum atque quae totam! Natus enim corporis ea sequi omnis labore quo adipisci maxime sapiente rerum dolore maiores earum voluptatem impedit nam, quas quam! Magni velit cupiditate voluptates.",
-            "likes": 32
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "blogsWritten": 12,
-            "userDetails":
-            {
-                "name": "Boiled Potatos",
-                "preferences": ["sci-fi", "comedy", "action"],
-                "blogGenre": ["science", "Chess", "Drawing"]
-            },
-            "userType": "admin"
-        },
-        {
-            "id": 2,
-            "blogsWritten": 20,
-            "userDetails":
-            {
-                "name": "Reconov",
-                "preferences": ["sci-fi", "comedy", "action"],
-                "blogGenre": ["science", "Chess", "Drawing"]
-            },
-            "userType": "moderator"
-        },
-        {
-            "id": 3,
-            "blogsWritten": 120,
-            "userDetails":
-            {
-                "name": "ChainSmoker",
-                "preferences": ["sci-fi", "comedy", "action"],
-                "blogGenre": ["science", "Chess", "Drawing"]
-            },
-            "userType": "user"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Making a Blog website @ 12:42 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos provident nesciunt, architecto at asperiores, tempore impedit necessitatibus neque natus, doloremque totam non et perspiciatis cupiditate? Quae repellat consectetur doloribus autem recusandae suscipit commodi! Alias, at aperiam dolores, sit, facilis nihil necessitatibus sequi in nisi animi reprehenderit tenetur rerum tempora quam architecto repellendus? Distinctio, a ad harum iste exercitationem ipsam nulla consequuntur et corrupti molestias doloremque nam voluptatibus nostrum dolores magni. Excepturi sed id error deserunt! Non a illum id libero ut quisquam recusandae nobis at tempore. Hic minus, mollitia, eligendi ex debitis aliquam sit, earum sed corrupti fugiat similique repellat quia quam. At a laudantium iure distinctio nisi quam voluptatibus voluptas architecto assumenda, fugit quos similique itaque debitis amet aut quod unde natus aliquid odit asperiores nam repellat laboriosam earum. Veniam perferendis cupiditate omnis praesentium voluptate tempora quod dolores consequuntur expedita excepturi cum, tenetur, natus dignissimos quisquam quidem. Omnis voluptas unde soluta nisi libero perferendis iure odit sequi similique nam voluptatem, quis, delectus voluptatibus velit natus laborum cumque voluptates, corporis ea eveniet possimus sapiente dolorem reprehenderit? Sit asperiores perspiciatis eaque omnis accusantium ut quisquam esse officia quidem, culpa ratione. Necessitatibus velit eum maxime! Commodi saepe optio ipsum ullam, molestiae culpa voluptate maxime dolorem, id nostrum hic consequuntur facere perferendis fuga quaerat quae? Harum explicabo hic et quas quisquam voluptatibus tempora consequatur incidunt. Obcaecati nisi hic quasi quod fugiat eveniet assumenda eius repellat fuga, ea aperiam ducimus cum minima quo omnis! Quod maiores illum aut doloribus perferendis eaque. Repellat, id eius assumenda distinctio quis temporibus nulla officiis exercitationem, alias qui doloremque quos odit earum, autem veritatis ad aut magni eaque? Perspiciatis repellendus error aliquid iusto dicta ipsum omnis esse laudantium, excepturi voluptatibus fuga neque, commodi repellat! Consectetur eius est blanditiis inventore animi? Soluta cumque minus autem pariatur impedit provident cupiditate est iste, perspiciatis exercitationem sunt cum nisi veritatis vitae maxime inventore possimus? Odio amet tenetur debitis? Totam explicabo placeat dolor, quia quis, eaque possimus nisi vero tempora quidem deserunt eos, in pariatur neque eius? Aut soluta nobis vel totam inventore ullam, maxime nulla nihil itaque hic beatae cupiditate quidem culpa optio reiciendis repellat laboriosam! Accusamus non dolorum culpa doloribus cumque hic quam. Hic aspernatur facilis corporis! Reiciendis vitae non eveniet delectus omnis nesciunt fugit sunt exercitationem in tempora, dicta alias facilis unde. Quidem eum possimus saepe hic aspernatur? Quam, pariatur temporibus, nobis non harum maxime illo est labore eligendi provident hic quas ducimus, culpa accusamus molestiae minus exercitationem totam. Quod velit ipsam numquam voluptatem repellat, libero veniam explicabo unde amet eum labore, omnis, enim ratione illum nihil beatae voluptatum est ipsum minus magnam incidunt? Suscipit accusantium error aperiam reiciendis itaque distinctio, nostrum non provident ullam iusto, beatae alias consequuntur laborum laboriosam quae unde blanditiis velit. Error veniam iure voluptate? Nisi alias corrupti, consectetur magni dignissimos eum eaque vero assumenda possimus dolores amet tempora ipsum atque quae totam! Natus enim corporis ea sequi omnis labore quo adipisci maxime sapiente rerum dolore maiores earum voluptatem impedit nam, quas quam! Magni velit cupiditate voluptates.",
+      "likes": 23
+    },
+    {
+      "id": 2,
+      "title": "Using JSON Server would have helped me",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos provident nesciunt, architecto at asperiores, tempore impedit necessitatibus neque natus, doloremque totam non et perspiciatis cupiditate? Quae repellat consectetur doloribus autem recusandae suscipit commodi! Alias, at aperiam dolores, sit, facilis nihil necessitatibus sequi in nisi animi reprehenderit tenetur rerum tempora quam architecto repellendus? Distinctio, a ad harum iste exercitationem ipsam nulla consequuntur et corrupti molestias doloremque nam voluptatibus nostrum dolores magni. Excepturi sed id error deserunt! Non a illum id libero ut quisquam recusandae nobis at tempore. Hic minus, mollitia, eligendi ex debitis aliquam sit, earum sed corrupti fugiat similique repellat quia quam. At a laudantium iure distinctio nisi quam voluptatibus voluptas architecto assumenda, fugit quos similique itaque debitis amet aut quod unde natus aliquid odit asperiores nam repellat laboriosam earum. Veniam perferendis cupiditate omnis praesentium voluptate tempora quod dolores consequuntur expedita excepturi cum, tenetur, natus dignissimos quisquam quidem. Omnis voluptas unde soluta nisi libero perferendis iure odit sequi similique nam voluptatem, quis, delectus voluptatibus velit natus laborum cumque voluptates, corporis ea eveniet possimus sapiente dolorem reprehenderit? Sit asperiores perspiciatis eaque omnis accusantium ut quisquam esse officia quidem, culpa ratione. Necessitatibus velit eum maxime! Commodi saepe optio ipsum ullam, molestiae culpa voluptate maxime dolorem, id nostrum hic consequuntur facere perferendis fuga quaerat quae? Harum explicabo hic et quas quisquam voluptatibus tempora consequatur incidunt. Obcaecati nisi hic quasi quod fugiat eveniet assumenda eius repellat fuga, ea aperiam ducimus cum minima quo omnis! Quod maiores illum aut doloribus perferendis eaque. Repellat, id eius assumenda distinctio quis temporibus nulla officiis exercitationem, alias qui doloremque quos odit earum, autem veritatis ad aut magni eaque? Perspiciatis repellendus error aliquid iusto dicta ipsum omnis esse laudantium, excepturi voluptatibus fuga neque, commodi repellat! Consectetur eius est blanditiis inventore animi? Soluta cumque minus autem pariatur impedit provident cupiditate est iste, perspiciatis exercitationem sunt cum nisi veritatis vitae maxime inventore possimus? Odio amet tenetur debitis? Totam explicabo placeat dolor, quia quis, eaque possimus nisi vero tempora quidem deserunt eos, in pariatur neque eius? Aut soluta nobis vel totam inventore ullam, maxime nulla nihil itaque hic beatae cupiditate quidem culpa optio reiciendis repellat laboriosam! Accusamus non dolorum culpa doloribus cumque hic quam. Hic aspernatur facilis corporis! Reiciendis vitae non eveniet delectus omnis nesciunt fugit sunt exercitationem in tempora, dicta alias facilis unde. Quidem eum possimus saepe hic aspernatur? Quam, pariatur temporibus, nobis non harum maxime illo est labore eligendi provident hic quas ducimus, culpa accusamus molestiae minus exercitationem totam. Quod velit ipsam numquam voluptatem repellat, libero veniam explicabo unde amet eum labore, omnis, enim ratione illum nihil beatae voluptatum est ipsum minus magnam incidunt? Suscipit accusantium error aperiam reiciendis itaque distinctio, nostrum non provident ullam iusto, beatae alias consequuntur laborum laboriosam quae unde blanditiis velit. Error veniam iure voluptate? Nisi alias corrupti, consectetur magni dignissimos eum eaque vero assumenda possimus dolores amet tempora ipsum atque quae totam! Natus enim corporis ea sequi omnis labore quo adipisci maxime sapiente rerum dolore maiores earum voluptatem impedit nam, quas quam! Magni velit cupiditate voluptates.",
+      "likes": 12
+    },
+    {
+      "id": 3,
+      "title": "Do not be limitted by api call limts",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos provident nesciunt, architecto at asperiores, tempore impedit necessitatibus neque natus, doloremque totam non et perspiciatis cupiditate? Quae repellat consectetur doloribus autem recusandae suscipit commodi! Alias, at aperiam dolores, sit, facilis nihil necessitatibus sequi in nisi animi reprehenderit tenetur rerum tempora quam architecto repellendus? Distinctio, a ad harum iste exercitationem ipsam nulla consequuntur et corrupti molestias doloremque nam voluptatibus nostrum dolores magni. Excepturi sed id error deserunt! Non a illum id libero ut quisquam recusandae nobis at tempore. Hic minus, mollitia, eligendi ex debitis aliquam sit, earum sed corrupti fugiat similique repellat quia quam. At a laudantium iure distinctio nisi quam voluptatibus voluptas architecto assumenda, fugit quos similique itaque debitis amet aut quod unde natus aliquid odit asperiores nam repellat laboriosam earum. Veniam perferendis cupiditate omnis praesentium voluptate tempora quod dolores consequuntur expedita excepturi cum, tenetur, natus dignissimos quisquam quidem. Omnis voluptas unde soluta nisi libero perferendis iure odit sequi similique nam voluptatem, quis, delectus voluptatibus velit natus laborum cumque voluptates, corporis ea eveniet possimus sapiente dolorem reprehenderit? Sit asperiores perspiciatis eaque omnis accusantium ut quisquam esse officia quidem, culpa ratione. Necessitatibus velit eum maxime! Commodi saepe optio ipsum ullam, molestiae culpa voluptate maxime dolorem, id nostrum hic consequuntur facere perferendis fuga quaerat quae? Harum explicabo hic et quas quisquam voluptatibus tempora consequatur incidunt. Obcaecati nisi hic quasi quod fugiat eveniet assumenda eius repellat fuga, ea aperiam ducimus cum minima quo omnis! Quod maiores illum aut doloribus perferendis eaque. Repellat, id eius assumenda distinctio quis temporibus nulla officiis exercitationem, alias qui doloremque quos odit earum, autem veritatis ad aut magni eaque? Perspiciatis repellendus error aliquid iusto dicta ipsum omnis esse laudantium, excepturi voluptatibus fuga neque, commodi repellat! Consectetur eius est blanditiis inventore animi? Soluta cumque minus autem pariatur impedit provident cupiditate est iste, perspiciatis exercitationem sunt cum nisi veritatis vitae maxime inventore possimus? Odio amet tenetur debitis? Totam explicabo placeat dolor, quia quis, eaque possimus nisi vero tempora quidem deserunt eos, in pariatur neque eius? Aut soluta nobis vel totam inventore ullam, maxime nulla nihil itaque hic beatae cupiditate quidem culpa optio reiciendis repellat laboriosam! Accusamus non dolorum culpa doloribus cumque hic quam. Hic aspernatur facilis corporis! Reiciendis vitae non eveniet delectus omnis nesciunt fugit sunt exercitationem in tempora, dicta alias facilis unde. Quidem eum possimus saepe hic aspernatur? Quam, pariatur temporibus, nobis non harum maxime illo est labore eligendi provident hic quas ducimus, culpa accusamus molestiae minus exercitationem totam. Quod velit ipsam numquam voluptatem repellat, libero veniam explicabo unde amet eum labore, omnis, enim ratione illum nihil beatae voluptatum est ipsum minus magnam incidunt? Suscipit accusantium error aperiam reiciendis itaque distinctio, nostrum non provident ullam iusto, beatae alias consequuntur laborum laboriosam quae unde blanditiis velit. Error veniam iure voluptate? Nisi alias corrupti, consectetur magni dignissimos eum eaque vero assumenda possimus dolores amet tempora ipsum atque quae totam! Natus enim corporis ea sequi omnis labore quo adipisci maxime sapiente rerum dolore maiores earum voluptatem impedit nam, quas quam! Magni velit cupiditate voluptates.",
+      "likes": 32
+    },
+    {
+      "id": 4,
+      "title": "Should one <'Code> @ 3:42 AM?",
+      "body": "tldr; Yes, it's good for you!",
+      "likes": 20
+    },
+    {
+      "title": "some wise words",
+      "body": "and then some more wisdom",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "blogsWritten": 12,
+      "userDetails": {
+        "name": "Boiled Potatos",
+        "preferences": [
+          "sci-fi",
+          "comedy",
+          "action"
+        ],
+        "blogGenre": [
+          "science",
+          "Chess",
+          "Drawing"
+        ]
+      },
+      "userType": "admin"
+    },
+    {
+      "id": 2,
+      "blogsWritten": 20,
+      "userDetails": {
+        "name": "Reconov",
+        "preferences": [
+          "sci-fi",
+          "comedy",
+          "action"
+        ],
+        "blogGenre": [
+          "science",
+          "Chess",
+          "Drawing"
+        ]
+      },
+      "userType": "moderator"
+    },
+    {
+      "id": 3,
+      "blogsWritten": 120,
+      "userDetails": {
+        "name": "ChainSmoker",
+        "preferences": [
+          "sci-fi",
+          "comedy",
+          "action"
+        ],
+        "blogGenre": [
+          "science",
+          "Chess",
+          "Drawing"
+        ]
+      },
+      "userType": "user"
+    }
+  ]
 }

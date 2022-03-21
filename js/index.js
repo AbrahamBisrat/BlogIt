@@ -12,7 +12,6 @@ const users = async () => {
 function renderPosts() {
   posts()
     .then((blogs) => {
-      //   p(blogs);
       let template = "";
       blogs.forEach((blog) => {
         template += `

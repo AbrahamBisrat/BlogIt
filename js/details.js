@@ -12,7 +12,6 @@ let template = "";
 const renderDetails = () => {
   getDetails(id)
     .then((blog) => {
-      //   p(blog);
       template += `
             <div class='detail-post'>
                 <h1>${blog.title}</h1>
@@ -20,7 +19,6 @@ const renderDetails = () => {
                 <p>${blog.body}</p>
             </div>
         `;
-      //   p(template);
       detailsContainer.innerHTML += template;
     })
     .catch((err) => p(err));

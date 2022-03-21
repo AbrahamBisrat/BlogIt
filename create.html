@@ -5,10 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BlogIt | Create</title>
+    <link rel="icon" href="icon.png" />
     <link rel="stylesheet" href="styles.css" />
-    <script src="/js/create.js"></script>
+    <script src="/js/create.js" defer></script>
   </head>
   <body>
-    <form></form>
+    <h1>Create a new Blog</h1>
+    <form>
+      <input type="text" name="title" placeholder="Blog title" required />
+      <textarea name="body" required placeholder="Blog body"></textarea>
+      <!-- <button>Create</button> -->
+      <button>Submit</button>
+    </form>
   </body>
 </html>
