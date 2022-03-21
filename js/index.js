@@ -1,7 +1,4 @@
-function p(text) {
-  console.log(text);
-}
-p("hellow Ninjas");
+const p = (text) => console.log(text);
 const blogContainer = document.querySelector(".blogs");
 
 const posts = async () => {
@@ -15,10 +12,9 @@ const users = async () => {
 function renderPosts() {
   posts()
     .then((blogs) => {
-      p(blogs);
+      //   p(blogs);
       let template = "";
       blogs.forEach((blog) => {
-        p(blog);
         template += `
               <div class="post">
                   <h2>${blog.title}</h2>
@@ -28,11 +24,8 @@ function renderPosts() {
               </div>
           `;
       });
-      p(template);
       blogContainer.innerHTML = template;
     })
     .catch((err) => p(err));
 }
-// posts();
-// users();
 renderPosts();
