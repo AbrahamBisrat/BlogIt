@@ -55,3 +55,16 @@ nav a:hover {
 .details p {
   margin: 2% 0;
 }
+.delete {
+  padding: 1% 2%;
+  border: none;
+  border-radius: 5%;
+  font-weight: bold;
+  font-size: medium;
+  color: white;
+  background-color: rgb(248, 71, 71);
+}
+.delete:hover {
+  box-shadow: 2px 2px 10px black;
+  text-decoration: underline;
+}

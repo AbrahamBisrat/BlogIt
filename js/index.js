@@ -2,7 +2,7 @@ const p = (text) => console.log(text);
 const blogContainer = document.querySelector(".blogs");
 
 const posts = async () => {
-  let uri = "http://localhost:3000/posts";
+  let uri = "http://localhost:3000/posts?_sort=likes&_order=desc";
   return await (await fetch(uri)).json();
 };
 const users = async () => {
