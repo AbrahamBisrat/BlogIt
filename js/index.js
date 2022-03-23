@@ -10,9 +10,7 @@ searchBar.addEventListener("submit", (e) => {
 
 const posts = async (query) => {
   let uri = "http://localhost:3000/posts?_sort=likes&_order=desc";
-  if (query) {
-    uri += `&q=${query}`;
-  }
+  if (query) uri += `&q=${query}`;
   return await (await fetch(uri)).json();
 };
 const users = async () => {
